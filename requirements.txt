@@ -1,0 +1,6 @@
+py4j==0.10.9.7
+pyspark==3.5.2
+
+
+# Additional System Requirements:
+# - Java 8 or later (e.g., OpenJDK 11)
